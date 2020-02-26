@@ -1,12 +1,32 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Latest Tweets App
 
-please add .env file under the root, with following entries:
+For this task, we’d like you to build a web app that lets a user view the 10 most recent tweets from a Twitter handle of the user's choice. The app should serve a single page with a form on it that has one text field and a submit button. The user should be able to enter a Twitter handle/username in the text field, and then hit the submit button to see the 10 latest tweets from that Twitter user.
+
+Some other details:
+
+You can use any language and tools or packages that you want.
+Feel free to use Google as a reference.
+You don't need to spend a lot of time (or any) on UI/styling. Just getting the tweets to display in some sort of list view is enough.
+
+Take as much time as you need to finish, but try not to spend more than a couple hours.
+To save you some time, we’ve included Twitter API credentials for a demo developer account that you can use below.
+Feel free to improvise or get creative for anything not mentioned in these instructions.
+
+As part of your solution, please write automated tests that can be run from the command line.
+
+To submit your code, put it up on Github and send us a link to the repo. If that's not convenient for you though, you can just zip up the files and send them to us by email. We just ask that you deliver your code in such a way that we can run it locally on our own machines, with minimal setup.
+
+To run the program, please add .env file under root folder, with following entries:
 
 ```
 REACT_APP_CONSUMER_API_KEY=[twitter-consumer-api-key]
 REACT_APP_CONSUMER_API_SECRET_KEY=[twitter=consumer-api-secret-key]
 REACT_APP_MAX_RESULTS=10
 ```
+
+======================================================
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 

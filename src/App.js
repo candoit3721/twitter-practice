@@ -47,9 +47,9 @@ class App extends Component {
 
   render() {
     return (
-      <div class='row'>
-        <div class='col-lg-4 col-centered'>
-          <h1>Search Twitter Practice</h1>
+      <div className='row'>
+        <div className='col-lg-4 col-centered'>
+          <h1>Latest Tweets App</h1>
 
           {/* <EnvDebug bearerToken={this.state.bearerToken} /> */}
           <TwitterSearchForm parentCallback={this.searchFormcallback} />

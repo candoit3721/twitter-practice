@@ -34,7 +34,7 @@ class TwitterSearchForm extends React.Component {
             </Form.Text>
           </Form.Group>
           <Button variant='primary' type='submit'>
-            Search Twitter
+            Search Tweets
           </Button>
         </Form>
       </>
