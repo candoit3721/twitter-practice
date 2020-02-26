@@ -24,6 +24,8 @@ REACT_APP_CONSUMER_API_SECRET_KEY=[twitter=consumer-api-secret-key]
 REACT_APP_MAX_RESULTS=10
 ```
 
+![screenshot-1](binaries/screenshot1.png)
+![screenshot-2](binaries/screenshot2.png)
 ======================================================
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
