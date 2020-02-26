@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+please add .env file under the root, with following entries:
+
+```
+REACT_APP_CONSUMER_API_KEY=[twitter-consumer-api-key]
+REACT_APP_CONSUMER_API_SECRET_KEY=[twitter=consumer-api-secret-key]
+REACT_APP_MAX_RESULTS=10
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
